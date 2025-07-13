@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-archive/projects-guidebook/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"]}
 ---
 
 # Welcome to my website!

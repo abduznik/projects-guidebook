@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-archive/projects-guidebook/python/getting-started/"}
+{"dg-publish":true,"dg-path":"Python/Getting Started.md","permalink":"/python/getting-started/"}
 ---
 
 Hi I am python!
